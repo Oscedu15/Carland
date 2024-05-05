@@ -56,7 +56,7 @@ export default function Why() {
           <div className="flex flex-col items-center text-center max-w-[160px]
           xl:max-w-none p-2 xl:p-0">
             <MdKey className="text-[38px] text-accent mb-4" />
-            <h3 className="h3">Rent simply and quickly</h3>
+            <h3 className="font-semibold text-2xl mb-2">Rent simply and quickly</h3>
             <p className="hidden xl:flex">We prioritize your need and we go above and beyond to ensure your
               expirience with us is nothing short of outstanding.
             </p>
@@ -65,7 +65,7 @@ export default function Why() {
           <div className="flex flex-col items-center text-center max-w-[160px]
           xl:max-w-none p-2 xl:p-0">
             <MdTrendingUp className="text-[38px] text-accent mb-4" />
-            <h3 className="h3">Modern & well maintained vehicles</h3>
+            <h3 className="font-semibold text-2xl mb-2">Modern & well maintained vehicles</h3>
             <p className="hidden xl:flex">We prioritize your need and we go above and beyond to ensure your
               expirience with us is nothing short of outstanding.
             </p>
@@ -74,7 +74,7 @@ export default function Why() {
           <div className="flex flex-col items-center text-center max-w-[160px]
           xl:max-w-none p-2 xl:p-0">
             <MdHandshake className="text-[38px] text-accent mb-4" />
-            <h3 className="h3">Prompt and flexible services</h3>
+            <h3 className="font-semibold text-2xl mb-2">Prompt and flexible services</h3>
             <p className="hidden xl:flex">We prioritize your need and we go above and beyond to ensure your
               expirience with us is nothing short of outstanding.
             </p>
